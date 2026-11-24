@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohaimenulislam22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/maverickmaruf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mohaimenulislam.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/smmaruf61935663"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=maverickmaruf&style=for-the-badge&color=00f5a0&label=PROFILE+VIEWS"/>
 </p>
@@ -101,6 +102,26 @@ const maruf = {
   <img src="https://img.shields.io/badge/Lightroom%20Classic-001E36?style=for-the-badge&logo=adobe&logoColor=31A8FF"/>
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Skill Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-80%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-70%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Linux%20%26%20Bash-85%25-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-80%25-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow%20%2F%20ML-70%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT%20%26%20Edge-80%25-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Full--Stack%20%26%20APIs-80%25-00F5A0?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Photo%20%26%20Video-90%25-31A8FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 </p>
 
 ---
