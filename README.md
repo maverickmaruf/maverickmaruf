@@ -22,9 +22,9 @@
 
 ```ts
 const maruf = {
-  name:        "S.M Mohaimenul Islam",
+  name:        "S.M. Mohaimenul Islam",
   alias:       "Maverick Maruf",
-  studying:    "B.Sc. in CSE @ Dhaka University of Engineering & Technology (DUET), Gazipur",
+  studying:    "B.Sc. in CSE @ Dhaka University of Engineering & Technology",
   previously:  "Diploma in Computer Technology @ Rangpur Polytechnic Institute (CGPA 3.86)",
   location:    "Gazipur, Bangladesh 🇧🇩",
   focus:       ["Full-Stack & Microservices", "Agentic AI / ML", "IoT & Edge Computing", "System Automation"],
